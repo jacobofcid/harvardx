@@ -1,2 +1,0 @@
-# harvardx
-Tareas de HarvardX
